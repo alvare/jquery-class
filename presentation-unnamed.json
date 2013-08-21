@@ -1,0 +1,389 @@
+{
+  "slides": [
+    {
+      "num": 0,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 257,
+          "y": 285,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "jQuery",
+          "size": 174,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 79,
+      "y": 81
+    },
+    {
+      "num": 1,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 189,
+          "y": 301,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Pero primero</div><div style=\"text-align: center;\">un poco de contexto</div>",
+          "size": 72,
+          "selected": false,
+          "skewX": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 340,
+      "y": 287
+    },
+    {
+      "num": 2,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 432,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "1999",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 362,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/PdGwCPd.jpg",
+          "type": "Image",
+          "x": 215,
+          "y": 120,
+          "scale": {
+            "x": 0.927536231884058,
+            "y": 0.927536231884058,
+            "width": 640,
+            "height": 616.8115942028985
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 78,
+      "y": 280
+    },
+    {
+      "num": 4,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 181,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "&lt;<font color=\"#ff3838\">etiqueta</font> <font color=\"#5389c5\">atributo1=\"</font><font color=\"#000000\">valor1</font><font color=\"#5389c5\">\"&nbsp;atributo2=\"</font>valor2<font color=\"#5389c5\">\"</font>&gt;<br>&nbsp; &nbsp; texto<br>&lt;/<span style=\"color: rgb(255, 56, 56);\">etiqueta</span>&gt;<br>",
+          "size": 42,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "HTML",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "https://www.google.com.ar/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=e-jRPyZdgFgN0M&tbnid=5_P9vhIP0i_bbM:&ved=0CAIQjBw&url=http%3A%2F%2F2.bp.blogspot.com%2F-GaetQYbmYFM%2FUaC6s58JdeI%2FAAAAAAAAAFQ%2FUDE-pGOL54c%2Fs320%2Fhtml5_structure%255B1%255D.png&ei=b6r_UZzoE4rS9ATKuYCoAg&bvm=bv.50165853,d.eWU&psig=AFQjCNF9XvDaBE3A-j5-izzfYnBbYyRnGg&ust=1375796158900554",
+          "type": "Image",
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "EWU&PSIG=AFQJCNF9XVDABE3A-J5-IZZFYNBBYYRNGG&UST=1375796158900554",
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-GaetQYbmYFM/UaC6s58JdeI/AAAAAAAAAFQ/UDE-pGOL54c/s320/html5_structure%5B1%5D.png",
+          "type": "Image",
+          "x": 290,
+          "y": 379,
+          "scale": {
+            "x": 1.3906249999999998,
+            "y": 1.3906249999999998,
+            "width": 444.99999999999994,
+            "height": 328.18749999999994
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 360,
+      "y": 85
+    },
+    {
+      "num": 4,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "HTML",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 273,
+          "y": 297,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "(arbol ejemplo)",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 645,
+      "y": 87
+    },
+    {
+      "num": 5,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "JavaScript",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 180,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">Contenido dinámico</span><br></li></ul>",
+          "size": 57,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 646,
+      "y": 294
+    },
+    {
+      "num": 6,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "jQuery",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 258,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Selectores",
+          "size": 107,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": true,
+      "active": true,
+      "x": 74,
+      "y": 482
+    },
+    {
+      "num": 8,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "jQuery",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 213,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">$(\"<font color=\"#ff3838\">etiqueta</font>\")</span><br></li><li><span style=\"line-height: normal;\">$(\"<font color=\"#3d95fb\">.clase</font>\")</span></li><li><span style=\"line-height: normal;\">$(\"<font color=\"#ff9a63\">#id</font>\")</span></li><li><span style=\"line-height: normal;\">$('[<font color=\"#3d95fb\">atributo</font>=\"<font color=\"#5a7390\">valor</font>\"]')</span></li></ul>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 337,
+      "y": 489
+    }
+  ],
+  "background": "defaultbg",
+  "activeSlide": {
+    "num": 6,
+    "components": [
+      {
+        "TextBox": {},
+        "x": 53,
+        "y": 42,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "jQuery",
+        "size": 72,
+        "selected": false,
+        "active": false
+      },
+      {
+        "TextBox": {},
+        "x": 258,
+        "y": 323,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "Selectores",
+        "size": 107,
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "selected": true,
+    "active": true,
+    "x": 74,
+    "y": 482
+  },
+  "fileName": "presentation-unnamed",
+  "surface": "surf-grad-bg-smoke",
+  "overviewX": 360,
+  "overviewY": 285
+}
