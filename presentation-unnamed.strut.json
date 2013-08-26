@@ -23,8 +23,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 79,
-      "y": 81
+      "x": 16,
+      "y": 28
     },
     {
       "num": 1,
@@ -49,8 +49,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 340,
-      "y": 287
+      "x": 262,
+      "y": 21
     },
     {
       "num": 2,
@@ -103,8 +103,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 78,
-      "y": 280
+      "x": 537,
+      "y": 27
     },
     {
       "num": 9,
@@ -145,8 +145,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 670,
-      "y": 80
+      "x": 823,
+      "y": 21
     },
     {
       "num": 4,
@@ -211,8 +211,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 360,
-      "y": 85
+      "x": 1066,
+      "y": 23
     },
     {
       "num": 10,
@@ -239,8 +239,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 990,
-      "y": 240
+      "x": 18,
+      "y": 209
     },
     {
       "num": 5,
@@ -265,10 +265,10 @@
       "rotateX": 0,
       "rotateY": 0,
       "rotateZ": 0,
-      "selected": true,
-      "active": true,
-      "x": 646,
-      "y": 294
+      "selected": false,
+      "active": false,
+      "x": 258,
+      "y": 213
     },
     {
       "num": 11,
@@ -345,13 +345,13 @@
         {
           "TextBox": {},
           "x": 99,
-          "y": 500,
+          "y": 499,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "text": "var elementos = document.getElementsByTagName('header');<br><br>for(var clave in elementos) {<br>&nbsp;&nbsp;&nbsp; elementos[clave].className += \"red\";<br>}<br><br>",
+          "text": "var elementos = document.getElementsByClassName('header');<br><br>for(var clave in elementos) {<br>&nbsp;&nbsp;&nbsp; elementos[clave].className += \"red\";<br>}<br><br>",
           "size": 30,
           "selected": false
         }
@@ -363,8 +363,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 1470,
-      "y": 240
+      "x": 510,
+      "y": 209
     },
     {
       "num": 15,
@@ -462,8 +462,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 1630,
-      "y": 240
+      "x": 806,
+      "y": 218
     },
     {
       "num": 12,
@@ -559,8 +559,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 1950,
-      "y": 400
+      "x": 1080,
+      "y": 214
     },
     {
       "num": 16,
@@ -586,26 +586,12 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 1790,
-      "y": 240
+      "x": 4,
+      "y": 396
     },
     {
       "num": 6,
       "components": [
-        {
-          "TextBox": {},
-          "x": 53,
-          "y": 42,
-          "scale": {
-            "x": 1,
-            "y": 1
-          },
-          "type": "TextBox",
-          "text": "jQuery",
-          "size": 72,
-          "selected": false,
-          "active": false
-        },
         {
           "TextBox": {},
           "x": 258,
@@ -627,8 +613,8 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 74,
-      "y": 482
+      "x": 270,
+      "y": 392
     },
     {
       "num": 8,
@@ -668,12 +654,27 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 337,
-      "y": 489
+      "x": 520,
+      "y": 400
     },
     {
       "num": 14,
-      "components": [],
+      "components": [
+        {
+          "TextBox": {},
+          "x": 264,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Funciones",
+          "size": 107,
+          "selected": false,
+          "active": false
+        }
+      ],
       "z": 0,
       "impScale": 3,
       "rotateX": 0,
@@ -681,25 +682,220 @@
       "rotateZ": 0,
       "selected": false,
       "active": false,
-      "x": 2270,
+      "x": 786,
+      "y": 399
+    },
+    {
+      "num": 14,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 126,
+          "y": 212,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">.hide()</span></li><li><span style=\"line-height: normal;\">.show(<font color=\"#757575\">1000</font>)</span></li><li><span style=\"line-height: normal;\">.addClass(\"<font color=\"#0676ff\">clase</font>\")</span></li><li><span style=\"line-height: normal;\">.removeClass(\"<font color=\"#0676ff\">clase</font>\")</span></li><li><span style=\"line-height: normal;\">.attr(\"<font color=\"#c20027\">href</font>\", \"<font color=\"#0676ff\">google.com</font>\")</span></li></ul>",
+          "size": 64,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1054,
       "y": 400
+    },
+    {
+      "num": 15,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 231,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">.css({</span><br></li></ul>&nbsp; &nbsp; \"<font color=\"#5daf00\">width</font>\": \"<font color=\"#575757\">100px</font>\",<br>&nbsp; &nbsp; \"<font color=\"#5daf00\">color</font>\": \"<font color=\"#626262\">red</font>\"<br>})<br>",
+          "size": 64,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 6,
+      "y": 576
+    },
+    {
+      "num": 16,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 293,
+          "y": 269,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">.animate({</span><br></li></ul>&nbsp; &nbsp; \"<font color=\"#5daf00\">opacity</font>\": \"<font color=\"#515151\">0</font>\"<br>}, 1500)<br>",
+          "size": 64,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 272,
+      "y": 581
+    },
+    {
+      "num": 17,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 318,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Eventos",
+          "size": 107,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 517,
+      "y": 587
+    },
+    {
+      "num": 18,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 172,
+          "y": 260,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">.on(\"<font color=\"#c20027\">click</font>\",&nbsp;<font color=\"#6f00d9\">function</font>(){</span><br></li></ul>&nbsp; &nbsp; hacerAlgo();<br>})<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 781,
+      "y": 581
+    },
+    {
+      "num": 19,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 151,
+          "y": 260,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">.on(\"<font color=\"#c20027\">hover</font>\",&nbsp;<font color=\"#6f00d9\">function</font>(){</span><br></li></ul>&nbsp; &nbsp; hacerAlgo2();<br>})<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": true,
+      "x": 1048,
+      "y": 579
+    },
+    {
+      "num": 20,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 167,
+          "y": 178,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">.animate({</span><br></li></ul>&nbsp; &nbsp; \"<font color=\"#5daf00\">margin-left</font>\": \"20px\"<br>}, 1500, <font color=\"#6f00d9\">function</font>(){<br>&nbsp; &nbsp; hacerAlgo();<br>})<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 4,
+      "y": 740
     }
   ],
   "background": "defaultbg",
   "activeSlide": {
-    "num": 5,
+    "num": 19,
     "components": [
       {
         "TextBox": {},
-        "x": 237,
-        "y": 316,
+        "x": 151,
+        "y": 260,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "text": "JavaScript",
-        "size": 118,
+        "text": "<ul><li><span style=\"line-height: normal;\">.on(\"<font color=\"#c20027\">hover</font>\",&nbsp;<font color=\"#6f00d9\">function</font>(){</span><br></li></ul>&nbsp; &nbsp; hacerAlgo2();<br>})<br>",
+        "size": 72,
         "selected": false,
         "active": false
       }
@@ -709,13 +905,13 @@
     "rotateX": 0,
     "rotateY": 0,
     "rotateZ": 0,
-    "selected": true,
+    "selected": false,
     "active": true,
-    "x": 646,
-    "y": 294
+    "x": 1048,
+    "y": 579
   },
   "fileName": "presentation-unnamed.strut",
   "surface": "surf-grad-bg-smoke",
-  "overviewX": 1172,
-  "overviewY": 284.5
+  "overviewX": 542,
+  "overviewY": 380.5
 }

@@ -1,4 +1,4 @@
 jquery-class
 ============
 
-jQuery class for work
+jQuery presentation for work using impress.js
