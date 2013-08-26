@@ -1,0 +1,721 @@
+{
+  "slides": [
+    {
+      "num": 0,
+      "components": [
+        {
+          "src": "http://informaticaxp.net/imagenes/jquery_logo.png",
+          "type": "Image",
+          "x": 144,
+          "y": 294,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 79,
+      "y": 81
+    },
+    {
+      "num": 1,
+      "components": [
+        {
+          "src": "http://i.imgur.com/7iz5o2x.png",
+          "type": "Image",
+          "x": 245,
+          "y": 85,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 340,
+      "y": 287
+    },
+    {
+      "num": 2,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 459,
+          "y": 18,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "1999",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 362,
+          "y": 326,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/PdGwCPd.jpg",
+          "type": "Image",
+          "x": 179,
+          "y": 86,
+          "scale": {
+            "x": 0.9666666666666667,
+            "y": 0.9666666666666667,
+            "width": 667,
+            "height": 642.8333333333334
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 78,
+      "y": 280
+    },
+    {
+      "num": 9,
+      "components": [
+        {
+          "src": "http://www.kevs3d.co.uk/dev/html5logo/",
+          "type": "WebFrame",
+          "x": 140,
+          "y": 86,
+          "scale": {
+            "x": 0.7760416666666666,
+            "y": 0.7760416666666666,
+            "width": 745,
+            "height": 596
+          },
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 457,
+          "y": 21,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "2013<br>",
+          "size": 50,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 670,
+      "y": 80
+    },
+    {
+      "num": 4,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 206,
+          "y": 400,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "&lt;<font color=\"#ff3838\">etiqueta</font> <font color=\"#5389c5\">atributo1=\"</font><font color=\"#000000\">valor1</font><font color=\"#5389c5\">\"&nbsp;atributo2=\"</font>valor2<font color=\"#5389c5\">\"</font>&gt;<br>&nbsp; &nbsp; texto<br>&lt;/<span style=\"color: rgb(255, 56, 56);\">etiqueta</span>&gt;<br>",
+          "size": 29,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 362,
+          "y": 135,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Etiquetas <br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "https://www.google.com.ar/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=e-jRPyZdgFgN0M&tbnid=5_P9vhIP0i_bbM:&ved=0CAIQjBw&url=http%3A%2F%2F2.bp.blogspot.com%2F-GaetQYbmYFM%2FUaC6s58JdeI%2FAAAAAAAAAFQ%2FUDE-pGOL54c%2Fs320%2Fhtml5_structure%255B1%255D.png&ei=b6r_UZzoE4rS9ATKuYCoAg&bvm=bv.50165853,d.eWU&psig=AFQjCNF9XvDaBE3A-j5-izzfYnBbYyRnGg&ust=1375796158900554",
+          "type": "Image",
+          "x": 341.3333333333333,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "EWU&PSIG=AFQJCNF9XVDABE3A-J5-IZZFYNBBYYRNGG&UST=1375796158900554",
+          "selected": false
+        },
+        {
+          "src": "http://www.clker.com/cliparts/7/1/a/3/p/E/price-tag-md.png",
+          "type": "Image",
+          "x": 215,
+          "y": 156,
+          "scale": {
+            "x": 0.5503355704697986,
+            "y": 0.5503355704697986,
+            "width": 164,
+            "height": 138.68456375838926
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 360,
+      "y": 85
+    },
+    {
+      "num": 10,
+      "components": [
+        {
+          "src": "http://i.imgur.com/9bsbHmf.png",
+          "type": "Image",
+          "x": 109,
+          "y": 295,
+          "scale": {
+            "x": 1.878787878787879,
+            "y": 1.878787878787879,
+            "width": 806,
+            "height": 178.4848484848485
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 990,
+      "y": 240
+    },
+    {
+      "num": 5,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 237,
+          "y": 316,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "JavaScript",
+          "size": 118,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": true,
+      "active": true,
+      "x": 646,
+      "y": 294
+    },
+    {
+      "num": 11,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 119,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 2<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 1<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 3<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 279,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 4<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 355,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 5<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 99,
+          "y": 500,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "var elementos = document.getElementsByTagName('header');<br><br>for(var clave in elementos) {<br>&nbsp;&nbsp;&nbsp; elementos[clave].className += \"red\";<br>}<br><br>",
+          "size": 30,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1470,
+      "y": 240
+    },
+    {
+      "num": 15,
+      "components": [
+        {
+          "src": "http://informaticaxp.net/imagenes/jquery_logo.png",
+          "type": "Image",
+          "x": 240,
+          "y": 75,
+          "scale": {
+            "x": 0.7391304347826086,
+            "y": 0.7391304347826086,
+            "width": 544,
+            "height": 133.78260869565216
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 406,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "(fuck yeah)<br>",
+          "size": 43,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 118,
+          "y": 387,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "$<br>",
+          "size": 260,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 331,
+          "y": 406,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "magic<br>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.46
+        },
+        {
+          "TextBox": {},
+          "x": 427,
+          "y": 469,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "magic<br>",
+          "size": 72,
+          "selected": false,
+          "rotate": -0.14,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 487,
+          "y": 553,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "magic<br>",
+          "size": 72,
+          "selected": false,
+          "rotate": 0.1,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1630,
+      "y": 240
+    },
+    {
+      "num": 12,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 93,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 1<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 330,
+          "y": 180,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 2<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 329,
+          "y": 258,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 3<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 335,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 4<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 329,
+          "y": 417,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Elemento 5<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 169,
+          "y": 599,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "$(\".elemento2\").addClass(\"red\");",
+          "size": 47,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1950,
+      "y": 400
+    },
+    {
+      "num": 16,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 277,
+          "y": 267,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "video de 50 c<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1790,
+      "y": 240
+    },
+    {
+      "num": 6,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "jQuery",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 258,
+          "y": 323,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Selectores",
+          "size": 107,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 74,
+      "y": 482
+    },
+    {
+      "num": 8,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 53,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "jQuery",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "TextBox": {},
+          "x": 164,
+          "y": 213,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<ul><li><span style=\"line-height: normal;\">$(\"<font color=\"#ff3838\">etiqueta</font>\")</span><br></li><li><span style=\"line-height: normal;\">$(\"<font color=\"#3d95fb\">.clase</font>\")</span></li><li><span style=\"line-height: normal;\">$(\"<font color=\"#ff9a63\">#id</font>\")</span></li><li><span style=\"line-height: normal;\">$('[<font color=\"#3d95fb\">atributo</font>=\"<font color=\"#5a7390\">valor</font>\"]')</span></li></ul>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 337,
+      "y": 489
+    },
+    {
+      "num": 14,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 2270,
+      "y": 400
+    }
+  ],
+  "background": "defaultbg",
+  "activeSlide": {
+    "num": 5,
+    "components": [
+      {
+        "TextBox": {},
+        "x": 237,
+        "y": 316,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "JavaScript",
+        "size": 118,
+        "selected": false,
+        "active": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "selected": true,
+    "active": true,
+    "x": 646,
+    "y": 294
+  },
+  "fileName": "presentation-unnamed.strut",
+  "surface": "surf-grad-bg-smoke",
+  "overviewX": 1172,
+  "overviewY": 284.5
+}
