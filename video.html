@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      video {
+        width: 200px;
+        height: 112px;
+        border: 1px solid black;
+      }
+      
+      .video-container {
+        display: inline-block;
+        text-align: center;
+      }
+      
+      p {
+        font: 14px Arial;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="video-container">
+      <p>.ogv</p>
+      <video poster="http://www.html5rocks.com/en/tutorials/video/basics/star.png" controls>
+        <source src="out.ogv" type='video/ogg; codecs="theora, vorbis"' />
+      </video>
+    </div>
+  </body>
+</html>
